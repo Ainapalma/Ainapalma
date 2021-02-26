@@ -5,13 +5,13 @@
 Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
-- - 📫 How to reach me: ...
-- - 💬 Ask me about 
+- 📫 How to reach me: ...
+- 💬 Ask me about 
 - 😄 Pronouns: ...
+- 👯 Looking for a peer to collaborate with and start a Kaggle project
 - 
 -->
 
 - 🔭 Open for job opportunities in DS team
 - 🌱 I’m currently learning programming at 42 Paris
-- 👯 Looking for peer to collaborate with and start a Kaggle project
 - ⚡ Fun fact: Aloha ʻĀina, which literally means "love of the land", is a central idea of Native Hawaiian thought, cosmology and culture. 
