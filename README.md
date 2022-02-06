@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 
 -->
 
-- 🔭 Open for job opportunities in DS team
-- 🌱 I’m currently learning programming at 42 Paris
+- 🔭 Deep diving into data engineering
+- 🌱 Cadet at 42 Paris
 - ⚡ Fun fact: Aloha ʻĀina, which literally means "love of the land", is a central idea of Native Hawaiian thought, cosmology and culture. 
